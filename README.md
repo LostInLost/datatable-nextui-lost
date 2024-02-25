@@ -1,5 +1,5 @@
 
-# Data Table NextUI
+# Data Table NextUI (Development Stage or can't use)
 
 A Super Data Table Utils like datatable but with integration with NextUI and FontAwesome
 
